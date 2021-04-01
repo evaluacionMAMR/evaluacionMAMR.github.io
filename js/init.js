@@ -1,10 +1,10 @@
 
 firebase.initializeApp({
-    apiKey: "AIzaSyDzZxk913MUi3ESjLwNK14W0t1c6HgUOWE",
-    authDomain: "bdfalumnox.firebaseapp.com",
-    projectId: "bdfalumnox",
-    storageBucket: "bdfalumnox.appspot.com",
-    messagingSenderId: "1002536188546",
-    appId: "1:1002536188546:web:cfa9fb33aec119e7fc529b",
-    measurementId: "G-5HHSLWQ24J"
+    apiKey: "AIzaSyD9DnYBev6CRB1jtSH-5nwZcwyrSeCuFrA",
+    authDomain: "examen41.firebaseapp.com",
+    projectId: "examen41",
+    storageBucket: "examen41.appspot.com",
+    messagingSenderId: "918881310870",
+    appId: "1:918881310870:web:b796decc21f3e1791fcab7",
+    measurementId: "G-N1TQTVFFF6"
 });
